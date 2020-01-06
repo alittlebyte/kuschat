@@ -1,18 +1,11 @@
-# kustalk
-
-## Project setup
+## Download the dependencies with this
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Launch with this
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
 ### Description
