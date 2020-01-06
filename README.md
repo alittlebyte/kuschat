@@ -1,4 +1,4 @@
-## Download the dependencies with this
+### Download the dependencies with this
 ```
 npm install
 ```
