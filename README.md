@@ -1,4 +1,24 @@
-# kuschat
-Small chat built upon an existing Websocket. <br/>
-Receives data in {'text':...} objects, sends back {'created':.. ,'name':... ,'text':...}. <br/>
-Decided to go without vue-router for the login part - easier to pass props around inside a single component, than between two child ones.
+# kustalk
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
