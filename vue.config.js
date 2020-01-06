@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/kustalk/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/kuschat/' : '/',
   "transpileDependencies": [
     "vuetify"
   ]
